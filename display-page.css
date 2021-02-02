@@ -5,11 +5,12 @@ main {
 	width: 800px;
 	height: 500px;
 	font-size: 0;
+	border: 1px solid black;
 }
 
 .box {
 	display: inline-block;
-	border: 1px solid black;
+	font-size: 0
 }
 
 .green, .blue {
