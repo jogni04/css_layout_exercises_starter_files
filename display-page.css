@@ -9,7 +9,7 @@ main {
 
 .box {
 	display: inline-block;
-	border: 1px solid black;
+	font-size: 0;
 }
 
 .green, .blue {
